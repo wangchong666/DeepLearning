@@ -1,0 +1,5 @@
+tensorflow/test/12306/
+tensorflow/test/train/
+tensorflow/MNIST_data/t10k-images-idx3-ubyte/t10k-images.idx3-ubyte
+tensorflow/MNIST_data/
+*.tif
